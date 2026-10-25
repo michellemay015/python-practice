@@ -1,0 +1,14 @@
+# Python cache files (made automatically when code runs)
+__pycache__/
+*.pyc
+
+# Passwords and keys (never upload these)
+.env
+
+# Windows system files
+Thumbs.db
+desktop.ini
+
+# Editor settings
+.vscode/
+.idea/
