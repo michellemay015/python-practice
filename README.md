@@ -12,7 +12,7 @@ Most exercises use the kind of data I work with, like inspection logs, measureme
 
 and OK/NG results, to build practical Python skills step by step toward computer vision.
 
-
+ 
 
 \## Exercises
 
