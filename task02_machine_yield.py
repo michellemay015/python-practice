@@ -1,5 +1,5 @@
 """
-Task 02: Yield per machine
+Task 02: Yield per machine 
 
 Each record is "part_id,machine,length_mm".
 Spec: 11.95 to 12.05 mm (inclusive) = OK, otherwise NG.
@@ -59,5 +59,4 @@ with open("task02_summary.txt", "w") as f:
     text =(f"NG parts: {ngpartstext}")
     f.write(text)
     
-
     

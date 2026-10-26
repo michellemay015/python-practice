@@ -1,3 +1,0 @@
-M1: OK 3, NG 1, yield 75.0%
-M2: OK 2, NG 2, yield 50.0%
-NG parts: P002, P005, P008
